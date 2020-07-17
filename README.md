@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi there 👋. Hope you are doing great! 
+
+### I'm a software developer from Mumbai, India. I like to work with cool technologies and build stuff.
+If you want to collaborate on any exciting project then I'm available.
+Feel free to reach out to me at my LinkedIn profile, https://www.linkedin.com/in/shama-parvin-khan-914438121/
+
+## Thank you for stopping by 😄
 
 <!--
 **shamakhan/shamakhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
