@@ -4,7 +4,10 @@
 If you want to collaborate on any exciting project then I'm available.
 Feel free to reach out to me at my LinkedIn profile, https://www.linkedin.com/in/shama-parvin-khan-914438121/
 
+Note: I have an unused referral link for foobar challenge by google. If you're good at DS and Algo then message me on LinkedIn to get it. :)
+
 ## Thank you for stopping by 😄
+
 
 <!--
 **shamakhan/shamakhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
