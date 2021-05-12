@@ -4,7 +4,7 @@
 If you want to collaborate on any exciting project then I'm available.
 Feel free to reach out to me on my LinkedIn profile, https://www.linkedin.com/in/shama-parvin-khan-914438121/
 
-Note: I have 2 unused referral links for foobar challenge by google. If you're good at DS and Algo then message me on LinkedIn to get it. All the best! :)
+Note: I have ~~2~~ 1 unused referral link~~s~~ for foobar challenge by google. If you're good at DS and Algo then message me on LinkedIn to get it. All the best! :)
 
 ## Thank you for stopping by 😄
 
