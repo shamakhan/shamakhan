@@ -1,10 +1,6 @@
-## Hi there 👋. Hope you are doing great! 
-
 ### I'm a Software Engineer. I like to work on challenging problems and develop innovative solutions.
 If you want to collaborate on exciting projects then I'm available.
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/shama-parvin-khan-914438121/)
-
-## Thank you for stopping by!
 
 
 <!--
